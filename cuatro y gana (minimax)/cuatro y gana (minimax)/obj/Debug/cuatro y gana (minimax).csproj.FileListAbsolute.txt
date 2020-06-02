@@ -1,0 +1,9 @@
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\cuatro y gana (minimax)\cuatro y gana (minimax)\bin\Debug\cuatro y gana (minimax).exe.config
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\cuatro y gana (minimax)\cuatro y gana (minimax)\bin\Debug\cuatro y gana (minimax).exe
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\cuatro y gana (minimax)\cuatro y gana (minimax)\bin\Debug\cuatro y gana (minimax).pdb
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\cuatro y gana (minimax)\cuatro y gana (minimax)\obj\Debug\cuatro y gana (minimax).csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\cuatro y gana (minimax)\cuatro y gana (minimax)\obj\Debug\cuatro_y_gana__minimax_.Form1.resources
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\cuatro y gana (minimax)\cuatro y gana (minimax)\obj\Debug\cuatro_y_gana__minimax_.Properties.Resources.resources
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\cuatro y gana (minimax)\cuatro y gana (minimax)\obj\Debug\cuatro y gana (minimax).csproj.GenerateResource.Cache
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\cuatro y gana (minimax)\cuatro y gana (minimax)\obj\Debug\cuatro y gana (minimax).exe
+C:\Users\Marcelo Calcina\Desktop\inteligencia artificial\tareas\cuatro y gana (minimax)\cuatro y gana (minimax)\obj\Debug\cuatro y gana (minimax).pdb
